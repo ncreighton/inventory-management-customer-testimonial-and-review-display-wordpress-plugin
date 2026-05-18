@@ -1,0 +1,2 @@
+# inventory-management-customer-testimonial-and-review-display-wordpress-plugin
+The Inventory Management Customer Testimonial and Review Display WordPress Plugin is a powerful tool designed to showcase social proof for your inventory items. It allows you to seamlessly integrate customer testimonials and product reviews directly into your WooCommerce or custom inventory pages. With this plugin, you can build trust with potentia
